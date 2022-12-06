@@ -16,7 +16,6 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=Electron)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=FastAPI)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-05122A?style=flat&logo=nuxtdotjs)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)
@@ -28,8 +27,9 @@
 ![Kafka](https://img.shields.io/badge/-kafka-05122A?style=flat&logo=apachekafka)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)
+![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)
+![Jinja](https://img.shields.io/badge/-Jinja-05122A?style=flat&logo=Jinja)
 ![Elastic](https://img.shields.io/badge/-Elastic-05122A?style=flat&logo=Elastic)
-![JWT](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=JSON%20web%20tokens)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
@@ -40,6 +40,9 @@
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)
 ![Swagger](https://img.shields.io/badge/-Swagger-05122A?style=flat&logo=swagger)
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=Selenium)
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=Microsoft+Azure)
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AMAZON+AWS)
+![GCP](https://img.shields.io/badge/-Google%20Cloud%20Platform-05122A?style=flat&logo=GOOGLE+CLOUD)
 
 ## 🤝🏻 Connect with Me
 

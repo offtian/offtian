@@ -48,4 +48,5 @@
 
 <p>
     <a href="mailto:oliver.fengtian@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/ollie-feng-tian/"><img src="https://img.shields.io/badge/-LinkedIn-D?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2"/></a>
 </p>

@@ -2,7 +2,7 @@
 
 ## 🦊 About Me
 
-- 🔭 I’m currently working on Recommender Engine in Insurance and advanced customer analytics
+- 🔭 I’m currently working on LLM apps and Recommender Engine in Insurance and Banking.
 - 🎓 I graduated from University College London with a master's degree in Computer Science
 - 🌱 I’m currently learning ML DevOps and Scala
 - 😄 Pronouns: He/Him
